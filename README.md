@@ -2,7 +2,7 @@ Hi 🖐
 🌈 I'm Nastya, 19 years old  
 📈 I'm interested in product management, data science and math  
 🔪 Most of the time I programming on Python, Svelte.js and C#  
-💌 If you have something interesting for me, you can contact me via [Telegram](https://t.me/hate_myselfff)   
+💌 If you have something interesting for me, we can contact via [Telegram](https://t.me/hate_myselfff)   
 
 
 
