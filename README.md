@@ -1,6 +1,6 @@
 ### Hi 🖐  
 🌈 I'm Nastya, 19 years old  
-📈 Now I work as CEO at [Common Data Team](https://github.com/Common-Data-Team) and DBA at [SimbirSoft](https://www.simbirsoft.com/en/)  
+📈 Now I work as CEO at [Common Data Team](https://github.com/Common-Data-Team) and Business Analyst at [Palindrome Media](https://palindrome.media)  
 🔪 Most of the time I programming on Python, Svelte.js and C#  
 ⏱ This is my [Wakatime public profile](https://wakatime.com/@agisina)  
 💌 If you have something interesting for me, we can contact via [Telegram](https://t.me/save_me_i_am_in_slavery)   
