@@ -3,7 +3,7 @@
 📈 Now I work as Business Analyst at [Palindrome Media](https://palindrome.media)  
 🔪 Most of the time I programming on Python, Svelte.js and C#  
 ⏱ This is my [Wakatime public profile](https://wakatime.com/@agisina)  
-💌 If you have something interesting for me, we can contact via [Telegram](https://t.me/save_me_i_am_in_slavery)   
+💌 If you have something interesting for me, we can contact via [Telegram](https://t.me/agisina)   
 
 
 
