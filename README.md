@@ -1,5 +1,5 @@
 ### Hi 🖐  
-🌈 I'm Nastya, 19 years old  
+🌈 I'm Nastya, 20 years old  
 📈 Now I work as Business Analyst at [Palindrome Media](https://palindrome.media)  
 🔪 Most of the time I programming on Python, Svelte.js and C#  
 ⏱ This is my [Wakatime public profile](https://wakatime.com/@agisina)  
