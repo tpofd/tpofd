@@ -1,4 +1,18 @@
-### Hi 🖐  
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HMUBjBWVbjiYU/giphy.gif" width="100"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/anastasiagisina/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/too_ambitious_today/">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+  <h1> hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+
 🌈 I'm Nastya, 20 years old  
 📈 Now I work as Data Analyst at [OZON](https://ozon.ru)  
 🔪 Most of the time I programming on Python, Svelte.js and C#  
