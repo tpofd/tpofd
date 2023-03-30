@@ -34,6 +34,7 @@
 <a href="https://tableau.com/"><img src="https://img.shields.io/badge/-Tableau-white?logo=Tableau&style=for-the-badge"></a>
 <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 <a href="https://clickhouse.com/"><img src="https://img.shields.io/badge/ClickHouse-2E2C39?style=for-the-badge&logo=ClickHouse&logoColor=F4B53F"></a>
+<a href="https://www.microsoft.com/ru-ru/sql-server/sql-server-2019"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=F4B53F"></a>
 
 ---
 
