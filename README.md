@@ -16,8 +16,8 @@
   </h1>
 </div>
 
-🌈 I'm Nastya, 21 years old  
-📈 Now I work as Data Analyst at [OZON](https://ozon.ru)  
+🌈 I'm Nastya, 22 years old  
+📈 Now I work as Product Analyst at [SberMarket](https://sbermarket.ru)  
 🔪 Most of the time I programming on Python, Svelte.js and C#  
 ⏱ This is my [Wakatime public profile](https://wakatime.com/@agisina)  
 💌 If you have something interesting for me, we can contact via [Telegram](https://t.me/agisina)   
